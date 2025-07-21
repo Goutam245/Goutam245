@@ -1,7 +1,7 @@
 ![logo](https://github.com/Goutam245/Goutam245/blob/main/Github%20Banner%20Photo.png)
 <h1 align="center">Hello World 👋, I'm Goutam Roy</h1>
 <h3 align="center">🚀 Award-Winning Frontend Developer | React, TypeScript & Node.js Specialist | High-Performance Web Applications | Open to Relocate Global Opportunities </h3> <br/>
-<img align="right" width="400" alt="coding" src="https://github.com/user-attachments/assets/08b08306-141b-4234-ad20-9127db8e01e5" />
+<img align="right" width="460" alt="coding" src="https://github.com/Goutam245/Goutam245/blob/main/Coding%20Gif.gif" />
 
 
 
