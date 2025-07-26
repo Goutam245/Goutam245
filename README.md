@@ -20,7 +20,7 @@
 
 - **🎯 My Top Three Projects to Date — meticulously designed, developed, and successfully launched entirely by me:**
 
-- 🚀 Personally built and deployed — a resume builder used by 90+ developers worldwide [🔥 Markdown CV Generator](https://professional-cv-builder-six.vercel.app/)
+- 🚀 Personally built and deployed — a resume builder used by 90+ developers worldwide [🔥 Markdown CV Generator](https://resume-builder-web-site.vercel.app/)
 
 - 📈 End-to-end developed freelance platform — designed and coded entirely by me [🔥 Fiverr Clone](https://fiverr-clone-steel.vercel.app/)
 
