@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=goutam245" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=goutam245&show_icons=true&locale=en&count_private=true&theme=default&include_all_commits=true&hide_title=false&card_width=495" alt="GitHub Stats" />
 </p>
 
 
