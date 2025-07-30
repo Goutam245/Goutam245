@@ -147,6 +147,4 @@ More projects available on my [Personal Portfolio](https://goutam-roy-portfolio.
   <img src="https://github-readme-stats.vercel.app/api?username=goutam245&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=goutam245&theme=react-dark&area=true" alt="Activity Graph" />
-</p>
+
