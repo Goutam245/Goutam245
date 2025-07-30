@@ -40,6 +40,7 @@
 <p align="left">
 <a href="https://twitter.com/sportlyword" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sportlyword" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/http://www.youtube.com/@viralvibe-360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="http://www.youtube.com/@viralvibe-360" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/goutam57/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/goutam57/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -50,3 +51,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=goutam245&show_icons=true&locale=en" alt="goutam245" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=goutam245&" alt="goutam245" /></p>
+
