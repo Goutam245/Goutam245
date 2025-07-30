@@ -55,7 +55,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goutam245&show_icons=true&locale=en&count_private=true&theme=default&include_all_commits=true&hide_title=false&card_width=495" alt="GitHub Stats" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=goutam245&theme=react-dark&area=true" alt="GitHub Activity Graph" />
 </p>
 
 
