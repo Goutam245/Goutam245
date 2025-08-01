@@ -28,16 +28,16 @@
 ## 🚀 Top Projects
 
 - **Professional CV Builder** — A resume builder used by 90+ developers worldwide  
-  [🔗 Live Demo](https://resume-builder-web-site.vercel.app/)
+  [🔗 Live Demo](https://resume-builder-web-site.vercel.app/)]
 
 - **Global Communication Translation Platform** — Global Communication Platform Enterprise-grade real-time translation solution 
-  [🔗 Live Demo]((https://language-translator-web-application-seven.vercel.app/))
+  [🔗 Live Demo]((https://language-translator-web-application-seven.vercel.app/))]
 
   - **Global Weather Intelligence Platform** — Production-ready weather application delivering real-time meteorological data across 200,000+ cities worldwide 
-  [🔗 Live Demo]((https://weather-app-fxjo.vercel.app/))
+  [🔗 Live Demo]((https://weather-app-fxjo.vercel.app/))]
 
 - **Cryptocurrency Trading Dashboard** — Production-ready real-time data visualization platform for crypto trading decisions 
-  [🔗 Live Demo]((https://cryptocurrency-dashboard-fawn.vercel.app/))
+  [🔗 Live Demo]((https://cryptocurrency-dashboard-fawn.vercel.app/))]
 
 
 More projects available on my [Personal Portfolio]((https://goutam-roy-portfolio-57.vercel.app/))
