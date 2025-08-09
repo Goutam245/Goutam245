@@ -3,7 +3,7 @@
 <h1 align="center">Hello World 👋, I'm Goutam Roy</h1>
 
 <h3 align="center">
-🚀 Award-Winning Frontend Developer | React, TypeScript & Node.js Specialist | High-Performance Web Applications | Open to Global Opportunities & Relocation
+🚀 Award-Winning Frontend Developer | React, TypeScript & Node.js Specialist | Building High-Performance Web Applications | Open to Global Opportunities & Relocation
 </h3>
 
 <img align="right" width="300" alt="coding" src="https://github.com/Goutam245/Goutam245/blob/main/Coding%20Gif.gif" />
@@ -16,40 +16,42 @@
 
 ## 👨‍💻 About Me
 
-🎯 I focus on building **fast, accessible**, and **well-architected** web experiences that scale beautifully.
+I build **fast, accessible**, and **well-architected** web applications that scale globally.  
 
-- Currently pursuing **BSc in Computer Science** at City University Bangladesh (2025 - 2028)  
-- Diploma in Computer Science & Engineering from Tangail Polytechnic Institute (2021 - 2024)  
+- Currently pursuing a **BSc in Computer Science** at City University Bangladesh (2025 - 2028)  
+- Diploma in Computer Science & Engineering, Tangail Polytechnic Institute (2021 - 2024)  
 - Passionate about **Artificial Intelligence (AI), Machine Learning, Data Structures & Algorithms**  
-- Constantly learning and improving skills in **Networking, AI, ML, and modern web technologies**
+- Continuously expanding my knowledge in **Networking, AI, ML, and modern web technologies**  
 
 ---
 
-## 🚀 Top Projects
+## 🚀 Featured Projects
 
-- **Professional CV Builder** — A resume builder used by **90+ developers** worldwide  
-  [🔗 Live Demo](https://resume-builder-web-site.vercel.app/)
+- **Professional CV Builder**  
+A resume builder trusted by 90+ developers worldwide.  
+[🔗 Live Demo](https://resume-builder-web-site.vercel.app/)  
 
-- **Global Communication Translation Platform** — Enterprise-grade **real-time translation** solution for global communication  
-  [🔗 Live Demo](https://language-translator-web-application-seven.vercel.app/)
+- **Global Communication Translation Platform**  
+Enterprise-grade real-time translation for seamless global communication.  
+[🔗 Live Demo](https://language-translator-web-application-seven.vercel.app/)  
 
-- **Global Weather Intelligence Platform** — Production-ready **weather application** delivering real-time data across **20,000+ cities**  
-  [🔗 Live Demo](https://weather-app-fxjo.vercel.app/)
+- **Global Weather Intelligence Platform**  
+Production-ready weather app delivering real-time data for 20,000+ cities globally.  
+[🔗 Live Demo](https://weather-app-fxjo.vercel.app/)  
 
-- **Cryptocurrency Trading Dashboard** — Real-time **crypto data visualization** platform for trading decisions  
-  [🔗 Live Demo](https://cryptocurrency-dashboard-fawn.vercel.app/)
+- **Cryptocurrency Trading Dashboard**  
+Real-time crypto data visualization platform for smart trading decisions.  
+[🔗 Live Demo](https://cryptocurrency-dashboard-fawn.vercel.app/)  
 
-
-
-More projects available on my [Personal Portfolio]((https://goutam-roy-portfolio-57.vercel.app/))
+More projects on my [Portfolio](https://goutam-roy-portfolio-57.vercel.app/)  
 
 ---
 
-## 📫 How to Reach Me
+## 📫 Contact Me
 
 - Email: **goutam.roy.421917@gmail.com**  
+- LinkedIn: [linkedin.com/in/Goutam-Roy-Dev](http://www.linkedin.com/in/Goutam-Roy-Dev)  
 - Resume: [Google Drive Link](https://drive.google.com/file/d/1ytcEip7rWduuGaJWy5bdA1s7jh31fTuL/view?usp=sharing)  
-- Fun fact: I think I’m funny 😜
 
 ---
 
@@ -69,7 +71,7 @@ More projects available on my [Personal Portfolio]((https://goutam-roy-portfolio
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills & Tools
 
 <p align="left">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
@@ -151,5 +153,3 @@ More projects available on my [Personal Portfolio]((https://goutam-roy-portfolio
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=goutam245&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-
-
