@@ -1,4 +1,4 @@
-![banner](https://github.com/Goutam245/Goutam245/blob/main/Github%20Banner%20Photo.png)
+![banner]((https://github.com/Goutam245/Goutam245/blob/main/Black%20Blue%20White%20Modern%20Technology%20Company%20Linkedin%20Banner%20(1).png))
 
 <h1 align="center">Hello World 👋, I'm Goutam Roy</h1>
 
