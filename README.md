@@ -3,7 +3,7 @@
 <h1 align="center">Hello World 👋, I'm Goutam Roy</h1>
 
 <h3 align="center">
-🚀 Award-Winning Frontend Developer | React, TypeScript & Node.js Specialist | Building High-Performance Web Applications | Open to Global Opportunities & Relocation
+🚀 Frontend Engineer | JavaScript, React, Next.js & TypeScript Specialist | Scalable Web Apps & Performance Optimization | Team Mentor | Open to Remote & Global Relocation (USA, EU, Canada)
 </h3>
 
 <img align="right" width="300" alt="coding" src="https://github.com/Goutam245/Goutam245/blob/main/Coding%20Gif.gif" />
