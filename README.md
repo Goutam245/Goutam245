@@ -1,155 +1,117 @@
-![banner](https://github.com/Goutam245/Goutam245/blob/main/Black%20Blue%20White%20Modern%20Technology%20Company%20Linkedin%20Banner%20(1).png)
+# Hi there 👋, I'm Goutam Roy
 
-<h1 align="center">Hello World 👋, I'm Goutam Roy</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Frontend Engineer | JavaScript, React, Next.js & TypeScript Specialist | Scalable Web Apps & Performance Optimization | Team Mentor | Open to Remote & Global Relocation (USA, EU, Canada)
-</h3>
+### Frontend Developer · React & Next.js · Full Stack Trained · Open to Remote Worldwide
 
-<img align="right" width="300" alt="coding" src="https://github.com/Goutam245/Goutam245/blob/main/Coding%20Gif.gif" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFB2?style=for-the-badge&logo=vercel&logoColor=black)](https://goutam-roy-portfolio-57.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goutam-roy-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goutam.roy.421917@gmail.com)
+[![IELTS](https://img.shields.io/badge/IELTS-7.5_C1_English-blue?style=for-the-badge)](https://goutam-roy-portfolio-57.vercel.app/)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=goutam245&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+</div>
 
 ---
 
 ## 👨‍💻 About Me
 
-I build **fast, accessible**, and **well-architected** web applications that scale globally.  
+I'm a Frontend Developer based in **Dhaka, Bangladesh**, building fast, accessible web applications with React and Next.js.
 
-- Currently pursuing a **BSc in Computer Science** at City University Bangladesh (2025 - 2028)  
-- Diploma in Computer Science & Engineering, Tangail Polytechnic Institute (2021 - 2024)  
-- Passionate about **Artificial Intelligence (AI), Machine Learning, Data Structures & Algorithms**  
-- Continuously expanding my knowledge in **Networking, AI, ML, and modern web technologies**  
-
----
-
-## 🚀 Featured Projects
-
-- **Professional CV Builder**  
-A resume builder trusted by 90+ developers worldwide.  
-[🔗 Live Demo](https://resume-builder-web-site.vercel.app/)  
-
-- **Global Communication Translation Platform**  
-Enterprise-grade real-time translation for seamless global communication.  
-[🔗 Live Demo](https://language-translator-web-application-seven.vercel.app/)  
-
-- **Global Weather Intelligence Platform**  
-Production-ready weather app delivering real-time data for 20,000+ cities globally.  
-[🔗 Live Demo](https://weather-app-fxjo.vercel.app/)  
-
-- **Cryptocurrency Trading Dashboard**  
-Real-time crypto data visualization platform for smart trading decisions.  
-[🔗 Live Demo](https://cryptocurrency-dashboard-fawn.vercel.app/)  
-
-More projects on my [Portfolio](https://goutam-roy-portfolio-57.vercel.app/)  
+- 🎓 **BSc Computer Science** — City University Bangladesh (2025–2028, In Progress)
+- 🎓 **Diploma in CSE** — Tangail Polytechnic Institute (2021–2024, Completed)
+- 💼 **Full Stack Internship** — MilkWay (Jan–May 2024, Official Certificate)
+- 📚 **Full Stack Course** — Programming Hero (Jun–Dec 2024, Completed)
+- 💻 **3+ Years Freelancing** on Upwork & Fiverr — international clients
+- 🌍 **IELTS Academic 7.5** (C1 English) — British Council, 2024
+- 🚀 Open to **remote roles worldwide** and relocation with sponsorship
 
 ---
 
-## 📫 Contact Me
+## 🏆 Client Projects (Real Delivered Work)
 
-- Email: **goutam.roy.421917@gmail.com**  
-- LinkedIn: [linkedin.com/in/Goutam-Roy-Dev](http://www.linkedin.com/in/Goutam-Roy-Dev)  
-- Resume: [Google Drive Link](https://drive.google.com/file/d/1ytcEip7rWduuGaJWy5bdA1s7jh31fTuL/view?usp=sharing)  
+### ⭐ Alpha Core Solutions — Saudi Arabia
+> Professional corporate website for a physical security solutions company in KSA. Bilingual Arabic/English platform showcasing Metal Detection, CCTV, X-Ray, and Access Control services.
 
----
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFB2?style=flat-square&logo=vercel&logoColor=black)](https://alpha-core-solution.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Goutam245/Alpha-Core-Solution)
 
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://twitter.com/sportlyword" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="30" height="30" />
-  </a>
-  <a href="https://www.youtube.com/c/http://www.youtube.com/@viralvibe-360" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30" />
-  </a>
-  <a href="https://leetcode.com/u/goutam57/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="30" height="30" />
-  </a>
-</p>
+`React` `Tailwind CSS` `Bilingual AR/EN` `Corporate Design`
 
 ---
 
-## 🛠️ Skills & Tools
+### ⭐ QREW ONLY — United States
+> Premium streetwear brand website for a US-based client. Features a unique terminal/CLI aesthetic, product catalogue with inventory filters, members-only community, and global shipping to 50+ countries.
 
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noopener noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noopener noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right:10px" />
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" style="margin-right:10px" />
-  </a>
-</p>
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00FFB2?style=flat-square&logo=vercel&logoColor=black)](https://qrew-only-1v.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/Goutam245/QREW-ONLY-)
+
+`React` `Tailwind CSS` `E-commerce` `Fashion Brand`
+
+---
+
+## 🚀 Personal Projects
+
+| Project | Description | Live | Code |
+|---------|-------------|------|------|
+| **CV Builder** | Markdown-to-PDF resume generator for developers | [Demo](https://resume-builder-web-site.vercel.app/) | [Repo](https://github.com/Goutam245) |
+| **Weather App** | Real-time weather platform with geolocation & OpenWeather API | [Demo](https://weather-app-fxjo.vercel.app/) | [Repo](https://github.com/Goutam245) |
+| **Real Estate Marketplace** | Property listing platform — Next.js, 95+ PageSpeed | [Demo](#) | [Repo](https://github.com/Goutam245) |
+| **Crypto Dashboard** | Real-time WebSocket crypto visualization with Chart.js | [Demo](https://cryptocurrency-dashboard-fawn.vercel.app/) | [Repo](https://github.com/Goutam245) |
+| **Translation Platform** | 25+ language pairs, vanilla JS, offline PWA | [Demo](https://language-translator-web-application-seven.vercel.app/) | [Repo](https://github.com/Goutam245) |
+| **Gaming Website** | Framer Motion animations, real-time search, PWA | [Demo](#) | [Repo](https://github.com/Goutam245) |
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=goutam245&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=goutam245&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=goutam245&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D0D1C&title_color=00FFB2&text_color=CCCCDD)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=goutam245&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D0D1C&title_color=00FFB2&text_color=CCCCDD&icon_color=00FFB2)
+
+</div>
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** goutam.roy.421917@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/goutam-roy-dev](https://linkedin.com/in/goutam-roy-dev)
+- 🌐 **Portfolio:** [goutam-roy-portfolio-57.vercel.app](https://goutam-roy-portfolio-57.vercel.app/)
+- 💬 **WhatsApp:** +880 174 759 3452
+
+---
+
+<div align="center">
+
+**🟢 Currently available for remote roles worldwide**
+
+*Open to relocation with visa sponsorship — USA, EU, Canada, Australia*
+
+</div>
