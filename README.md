@@ -4,10 +4,10 @@
 
 ### Frontend Developer · React & Next.js · Full Stack Trained · Open to Remote Worldwide
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-00FFB2?style=for-the-badge&logo=vercel&logoColor=black)](https://goutam-roy-portfolio-57.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FFB2?style=for-the-badge&logo=vercel&logoColor=black)]([https://goutam-roy-portfolio-57.vercel.app/](https://goutam-roy-1.netlify.app/)](https://goutam-roy-1.netlify.app/))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goutam-roy-dev)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goutam.roy.421917@gmail.com)
-[![IELTS](https://img.shields.io/badge/IELTS-7.5_C1_English-blue?style=for-the-badge)](https://goutam-roy-portfolio-57.vercel.app/)
+[![IELTS](https://img.shields.io/badge/IELTS-7.5_C1_English-blue?style=for-the-badge)]([https://goutam-roy-portfolio-57.vercel.app/](https://goutam-roy-1.netlify.app/))
 
 </div>
 
@@ -58,7 +58,6 @@ I'm a Frontend Developer based in **Dhaka, Bangladesh**, building fast, accessib
 | **Real Estate Marketplace** | Property listing platform — Next.js, 95+ PageSpeed | [Demo](#) | [Repo](https://github.com/Goutam245) |
 | **Crypto Dashboard** | Real-time WebSocket crypto visualization with Chart.js | [Demo](https://cryptocurrency-dashboard-fawn.vercel.app/) | [Repo](https://github.com/Goutam245) |
 | **Translation Platform** | 25+ language pairs, vanilla JS, offline PWA | [Demo](https://language-translator-web-application-seven.vercel.app/) | [Repo](https://github.com/Goutam245) |
-| **Gaming Website** | Framer Motion animations, real-time search, PWA | [Demo](#) | [Repo](https://github.com/Goutam245) |
 
 ---
 
