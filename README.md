@@ -288,7 +288,7 @@ english     : IELTS 7.5 — C1 (British Council, 2024)
 |:---:|:---:|
 | 📧 **Email** | [goutam.roy.421917@gmail.com](mailto:goutam.roy.421917@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/goutam-roy-dev](https://linkedin.com/in/goutam-roy-dev) |
-| 🌐 **Portfolio** | [goutam-roy-1.netlify.app](https://goutam-roy-1.netlify.app/) |
+| 🌐 **Portfolio** | [goutam-roy-1.netlify.app](https://goutam-roy-portfolio1.netlify.app/) |
 | 💬 **WhatsApp** | [+880 174 759 3452](https://wa.me/8801747593452) |
 
 <br/>
