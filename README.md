@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00E5FF?style=for-the-badge&labelColor=0D1117)](https://goutam-roy-1.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00E5FF?style=for-the-badge&labelColor=0D1117)](https://goutam-roy-portfolio1.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/goutam-roy-dev)
 [![Gmail](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:goutam.roy.421917@gmail.com)
 [![IELTS](https://img.shields.io/badge/IELTS_7.5-C1_English-00897B?style=for-the-badge&labelColor=0D1117)](https://goutam-roy-1.netlify.app/)
